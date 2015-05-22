@@ -1,0 +1,18 @@
+{
+  "name": "gintong-parser-stylus",
+  "version": "0.0.1",
+  "description": "A parser plugin for gintong to compile stylus file.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gintong-team/gintong-parser-stylus.git"
+  },
+  "author": "liuhuixiao <liuhuixiao@gintong.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.12.2"
+  },
+  "dependencies": {
+    "stylus": "0.43.1"
+  }
+}
